@@ -24,6 +24,15 @@ VROOM is an optimization engine written in C++14 that aim at providing good solu
 An open source library by Chris Groer for solving the capacitated vehicle routing problem written in C++.
 Now hosted by [coin-or](https://projects.coin-or.org/VRPH)
 
+#### [VeRyPy](https://github.com/yorak/VeRyPy)
+An easy to use pure Python library impementing the 15+ central classical Capacitated Vehicle Routing Problem (CVRP) algorithms. Published with the very permissive MIT license.
+
+#### [VRPy](https://github.com/Kuifje02/vrpy)
+A python framework for solving many different Vehicle Routing Problems (VRP). MIT license.
+
+#### [HGS-CVRP](https://github.com/vidalt/HGS-CVRP)
+A modern implementation of Hybrid Genetic Search (HGS) with Advanced Diversity Control, which is a state-of-the-art algorithm for many VRP variants. This version is specialized to solve the Capacitated Vehicle Routing Problem (CVRP). MIT license.
+
 ### Territory Design
 
 #### [OpenDoorLogistics](http://www.opendoorlogistics.com)
